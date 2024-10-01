@@ -70,7 +70,18 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business & Manage
 
 
 
+    st.write('''<br><br><br>[2] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "https://journals.ue.poznan.pl/ebr" target = '_blank' style = 'text-decoration:none'>The Economics and Business Review (earlier as the Poznan University of Economics Review) </a></font><br>Informasi Biaya: <a href = "https://journals.ue.poznan.pl/ebr" target = '_blank' style = 'text-decoration:none'>The EBR invites submissions of original and unpublished articles. The journal is published in English only, with a frequency of four issues yearly. Texts are double-blind reviewed. EBR is an open access journal. To submit, process and publish an article in Economics and Business Review authors are not required to pay any charge.</a><br>Lama Review: <a href = "https://journals.ue.poznan.pl/ebr/review" target = '_blank' style = 'text-decoration:none'>The author is required to send back the corrected article in two versions: with trace changes and a clean copy, along with the answers to the reviews in 30 days – otherwise it will be assumed to have been withdrawn;If a paper’s reviews are mixed the Editorial Board either rejects the submission at that stage or sends it to an additional Reviewer. If the latter option is chosen, the Editorial Board, based on three double-blind reviews takes the final decision whether or not to publish the paper. In cases where a manuscript is returned to an author for major revisions it must be resubmitted within 30 days; otherwise it will be assumed to have been withdrawn.</a></font><br><font color = "red"><b>Catatan: Informasi Diakses pada 1 September 2024</b></font><br><br>
 
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://www.scimagojr.com/journalsearch.php?q=21101026934&tip=sid&clean=0">
+    <img src="https://statkomat.com/paper-image/Accounting, Finance, Econometrics, Business & Management/2/1.png" width="200">
+    </a>""",
+    unsafe_allow_html=True)
 
 
 
