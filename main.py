@@ -89,7 +89,6 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business & Manage
 
 
 
-         
 
 
     st.write('''<br><br><br>[3] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "http://www.sjm06.com/" target = '_blank' style = 'text-decoration:none'>Serbian Journal of Management
@@ -143,6 +142,42 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business & Manage
 
 if pilih_topik == ":rainbow[Psychology]":
     st.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Psychology</center></h2>", unsafe_allow_html=True)
+
+    st.write('''[1] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "https://www.tandfonline.com/journals/oaps20" target = '_blank' style = 'text-decoration:none'>Cogent Psychology</a></font><br>Informasi Biaya: <a href = "https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=oaps20" target = '_blank' style = 'text-decoration:none'>The standard article publishing charge (APC) for this journal is $ 2195 / £ 1756 / EUR 2110 / AUD 3060, plus VAT or other local taxes where applicable in your country. There is no submission charge.</a><br>Lama Review: <a href = "https://www.tandfonline.com/journals/oaps20/about-this-journal#aims-and-scope" target = '_blank' style = 'text-decoration:none'>4 days avg. from submission to first decision; 89 days avg. from submission to first post-review decision; 16 days avg. from acceptance to online publication; 18% acceptance rate</a></font><br><font color = "red"><b>Catatan: Informasi Diakses pada 2 September 2024</b></font><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://www.scimagojr.com/journalsearch.php?q=21100774706&tip=sid&clean=0">
+    <img src="https://statkomat.com/paper-image/Psychology/1/1.png" width="200">
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
