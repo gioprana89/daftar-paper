@@ -61,6 +61,15 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business & Manage
 
 
 
+
+
+
+
+
+
+
+
+
     st.write('''<br><br><br>[2] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "https://journals.ue.poznan.pl/ebr" target = '_blank' style = 'text-decoration:none'>The Economics and Business Review (earlier as the Poznan University of Economics Review) </a></font><br>Informasi Biaya: <a href = "https://journals.ue.poznan.pl/ebr" target = '_blank' style = 'text-decoration:none'>The EBR invites submissions of original and unpublished articles. The journal is published in English only, with a frequency of four issues yearly. Texts are double-blind reviewed. EBR is an open access journal. To submit, process and publish an article in Economics and Business Review authors are not required to pay any charge.</a><br>Lama Review: <a href = "https://journals.ue.poznan.pl/ebr/review" target = '_blank' style = 'text-decoration:none'>The author is required to send back the corrected article in two versions: with trace changes and a clean copy, along with the answers to the reviews in 30 days – otherwise it will be assumed to have been withdrawn;If a paper’s reviews are mixed the Editorial Board either rejects the submission at that stage or sends it to an additional Reviewer. If the latter option is chosen, the Editorial Board, based on three double-blind reviews takes the final decision whether or not to publish the paper. In cases where a manuscript is returned to an author for major revisions it must be resubmitted within 30 days; otherwise it will be assumed to have been withdrawn.</a></font><br><font color = "red"><b>Catatan: Informasi Diakses pada 1 Oktober 2024</b></font><br><br>
 
 
@@ -82,7 +91,19 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business & Manage
 
 
 
+    st.write('''<br><br><br>[3] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "http://www.sjm06.com/" target = '_blank' style = 'text-decoration:none'>Serbian Journal of Management
+</a></font><br>Informasi Biaya: <a href = "http://www.sjm06.com/instr_auth.html" target = '_blank' style = 'text-decoration:none'>Publishing manuscripts in SJM is free of charge. There are no article processing or article submission charges.</a><br>Lama Review: <a href = "http://www.sjm06.com/received.html" target = '_blank' style = 'text-decoration:none'>All papers submitted to the Serbian Journal of Management (SJM) for possible publication  are under Editors Evaluation. Only the articles which are prepared according to the instructions to authors and within the SJMs scope will be further proceded to the reviewing process. Editors evaluation is usually up to 3 months long. However, due to increased number of submissions, sometimes it can be even longer. After this period of time, authors will receive Editors response, with the results of initial Editors evaluation. The manuscripts which are prepared in accordance to Instructions to Authors and which are considered to be at the adequate level of quality to be further processed for publication in SJM,  will be passed to official double blind peer review process.</a></font><br><font color = "red"><b>Catatan: Informasi Diakses pada 1 Oktober 2024</b></font><br><br>
 
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://www.scimagojr.com/journalsearch.php?q=21100305371&tip=sid&clean=0">
+    <img src="https://statkomat.com/paper-image/Accounting, Finance, Econometrics, Business & Management/3/1.png" width="200">
+    </a>""",
+    unsafe_allow_html=True)
 
 
 
