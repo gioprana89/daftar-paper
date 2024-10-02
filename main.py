@@ -120,6 +120,50 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business & Manage
 
 
 
+    st.write('''<br><br><br>[4] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "https://www.journals.vu.lt/ekonomika/" target = '_blank' style = 'text-decoration:none'>Ekonomika Journal
+</a></font><br>Informasi Biaya: <a href = "https://www.journals.vu.lt/ekonomika/about" target = '_blank' style = 'text-decoration:none'>The journal does not charge article processing charges or submission charges.</a><br>Lama Review: <a href = "https://www.journals.vu.lt/ekonomika/information/authors" target = '_blank' style = 'text-decoration:none'>Initial decision to review: 3–5 days after submission. Decision after review: 3–4 weeks after submission. Anticipated timeframe for suggested revisions: 2–3 months (with flexibility if needed). Time to publication: Within 3-5 months of acceptance.</a></font><br><font color = "red"><b>Catatan: Informasi Diakses pada 3 Oktober 2024</b></font><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://www.scimagojr.com/journalsearch.php?q=21100305371&tip=sid&clean=0">
+    <img src="https://statkomat.com/paper-image/Accounting, Finance, Econometrics, Business & Management/4/1.png" width="200"><br>
+    <img src="https://statkomat.com/paper-image/Accounting, Finance, Econometrics, Business & Management/4/2.png" width="1200"><br>
+    <img src="https://statkomat.com/paper-image/Accounting, Finance, Econometrics, Business & Management/4/3.png" width="700"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -160,6 +204,19 @@ if pilih_topik == ":rainbow[Psychology]":
 
 
 
+    st.write('''<br><br><br>[2] <font color = "#0000ff">Jurnal: <font color = "blue" style="background-color: #d0ff14"><a href = "http://www.dps.org.rs/en/psihologija-journal/" target = '_blank' style = 'text-decoration:none'>Psihologija Journal</a></font><br>Informasi Biaya: <a href = "http://dps.org.rs/images/How_to_publish_in_Psihologija.pdf" target = '_blank' style = 'text-decoration:none'>Publishing in Psihologija is free - Psihologija is financed by public funds and by the Serbian Psychological Association. There are no charges for authors.</a><br>Lama Review: <a href = "https://www.dps.org.rs/wp-content/uploads/2009/03/Instructions_for_authors.pdf" target = '_blank' style = 'text-decoration:none'>If sent for a review, the paper will be examined by two independent reviewers, and this process normally takes up to three months</a></font><br><font color = "red"><b>Catatan: Informasi Diakses pada 3 September 2024</b></font><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://www.scimagojr.com/journalsearch.php?q=19200156803&tip=sid">
+    <img src="https://statkomat.com/paper-image/Psychology/2/1.png" width="200"><br>
+        <img src="https://statkomat.com/paper-image/Psychology/2/2.png" width="400">
+    </a>""",
+    unsafe_allow_html=True)
 
 
 
