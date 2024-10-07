@@ -24,7 +24,7 @@ st.write('''<style>
 
 
 
-st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Jurnal Scopus (Gratis & Berbayar)</font></center>
+st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Jurnal Scopus (Gratis & Berbayar) pada Berbagai Bidang Disiplin Ilmu</font></center>
 
 
 
