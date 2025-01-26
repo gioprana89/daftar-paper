@@ -24,7 +24,7 @@ st.write('''<style>
 
 
 
-st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Jurnal Scopus (Gratis & Berbayar) pada Berbagai Bidang Disiplin Ilmu</font></center>
+st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Jurnal Scopus (Gratis & Berbayar) pada Berbagai Bidang Disiplin Ilmu<br><font color = 'red'>6 Jurnal</font></font></center>
 
 
 
@@ -32,7 +32,29 @@ st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Jurnal S
 
 
 
+col1, col2, col3, col4, col5 = st.columns([3,3,3,3,3])
 
+with col1:
+    st.write("") 
+
+with col2:
+    st.write("") 
+
+with col3:
+    st.image("ugi3.jpg", width = 300)
+
+with col4:
+    st.write("")
+
+with col5:
+    st.write("")
+
+
+
+
+st.markdown(
+    """<center><a href="https://galeri-web-app-python-2025.streamlit.app/" target = "_blank">Galeri Aplikasi Python-Streamlit</a> | <a href="https://statkomat.com/download_tulisan.php" target = "_blank">STATKOMAT</a> | <a href="https://www.youtube.com/@STATKOMAT" target = "_blank">Youtube</a> | <a href="https://share-your-shiny-app.id/" target = "_blank">Shiny</a></center><br>""",
+    unsafe_allow_html=True)
 
 
 
